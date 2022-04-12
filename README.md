@@ -1,5 +1,5 @@
 
-## Hello world,my name is Onur
+## Hello world, my name is Onur
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/onurerk4n/)](https://www.instagram.com/onurerk4n/)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/onurerkantoros/)](https://www.linkedin.com/in/onurerkantoros/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
