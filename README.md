@@ -1,7 +1,7 @@
 
-## Hello world, my name is Onur :stuck_out_tongue_winking_eye:
+## Hello world, my name is Onur :smile:
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/onurerk4n/)](https://www.instagram.com/onurerk4n/)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/onurerkantoros/)](https://www.linkedin.com/in/onurerkantoros/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/onurerkantoros/)](https://www.linkedin.com/in/onurerkantoros/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
