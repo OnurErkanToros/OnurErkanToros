@@ -18,3 +18,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </div>
+<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="onurerkantoros" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/onurerkantoros?trk=profile-badge">Onur Erkan Toros</a></div>
+              
