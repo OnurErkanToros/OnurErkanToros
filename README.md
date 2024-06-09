@@ -6,7 +6,7 @@
 ### About
 
 -  **Learning :** Full-Stack Development :zap:
--  **Languages :** Java, Python, JS, CSS
+-  **Languages :** Java, PL/SQL, Python, Angular 
 -  **Hobbies :** ride a bike :bike:
 -  :purple_heart: <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> 
  
